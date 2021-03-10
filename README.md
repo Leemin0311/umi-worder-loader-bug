@@ -1,2 +1,15 @@
-# umi-worder-loader-bug
-To reproduce workder loader bug with umi@3.4.0 
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
